@@ -7,6 +7,9 @@
 # Idea
 .idea/
 
+# VP backups
+**/*.vpp.bak*
+
 # Log file
 *.log
 
